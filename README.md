@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl programming:  Failure to properly validate command inputs. The `wrong_command.tcl` file showcases the issue where a procedure does not handle unexpected or missing arguments. The solution file, `wrong_command_solution.tcl`, corrects this by adding input validation.
