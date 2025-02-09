@@ -1,0 +1,1 @@
+proc wrong_command {args} { puts "Wrong command!" }
